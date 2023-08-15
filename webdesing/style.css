@@ -1,0 +1,17 @@
+.item{
+  height: 250px ;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.item h4{
+    font-size: 20px;
+}
+.projetos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap:wrap ;
+}
