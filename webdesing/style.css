@@ -1,7 +1,6 @@
 body{
   
     font-family: 'Chivo', sans-serif !important;
-    
 }
 
 
@@ -80,4 +79,9 @@ input{
   border: none;
   margin-bottom: 20px;
   height:2rem ;
+}
+
+
+#enviar{
+  margin-bottom: 170px;
 }
