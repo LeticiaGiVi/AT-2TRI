@@ -28,7 +28,8 @@
     ,
     {
         "id": 6,
-        "nome": "Projeto 6"
+        "nome": "Assistente de Comunicação para Não-Verbais",
+        "imagem":"imagens/como-ser-assistente-virtual-inicio.jpg"
     }
     ]
    }
