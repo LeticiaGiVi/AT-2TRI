@@ -1,36 +1,19 @@
 {
-    "projetos": [
+  "posts": [
     {
-    "id": 1,
-    "nome": "Projeto para Doação de Proteses",
-    "imagem":"imagens/pexels-thisisengineering-3912979.jpg"
-    },
-    {
-    "id": 2,
-    "nome": "Projeto para a aulas de Maternidade e Paternidade",
-    "imagem":"imagens/formacao_paternidade-e-maternidade-responsavel-1.jpg"
-    },
-    {
-    "id": 3,
-    "nome": "Projeto para melhor Infraestrutura",
-    "imagem":"imagens/rampa-de-acessibilidade-necessidade-em-estabelecimentos-comerciais-1080x630.png"
-    },
-    {
-        "id": 4,
-        "nome": "Projeto acessibilidade em areas comuns",
-        "imagem":"imagens/wheelchair-4164107_1920-830x545.jpg"
-    },
-    {
-        "id": 5,
-        "nome": "Palestras sobre deficiencias invisiveis",
-        "imagem":"imagens/campa.jpg"
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
     }
-    ,
+  ],
+  "comments": [
     {
-        "id": 6,
-        "nome": "Assistente de Comunicação para Não-Verbais",
-        "imagem":"imagens/como-ser-assistente-virtual-inicio.jpg"
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
     }
-    ]
-   }
-   
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
